@@ -1,0 +1,65 @@
+body{
+    background-color: beige;
+    
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+    line-height: 30px;
+    letter-spacing: 2px;
+    color: rgb(149, 4, 127);
+    Padding-left:10px;
+}
+img{
+    padding-top:20px;
+    padding-left:200px;
+}
+li{
+    font-family:'Times New Roman', Times, serif;
+font-size: xx-large;
+}
+h1{
+    font-size: xx-large ;
+}
+th,td{
+    padding-left:50px;
+    padding-top: 20px;
+    border: 5px solid pink;
+    color: #610247;
+    font-weight: bold;
+    
+}
+tr:nth-child(even)
+{
+    background-color: #D6EEEE;
+}
+form{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 130%;
+
+}
+input{
+    width: 320px;
+height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#submitb{
+    width:130px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: medium;
+    margin-left: 220px;
+
+}
+label{
+    width:200px;
+    float:left;
+    position:relative;
+    top:12px;
+    padding-left:10px;
+}
+footer{
+    color: aliceblue;
+    text-decoration: underline;
+}
